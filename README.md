@@ -50,18 +50,18 @@ mvn spring-boot:run
 
 ## Technologies Used 🛠️
 
-- Spring Boot
+- **Spring Boot**
 
-- Spring Security
+- **Spring Security**
 
-- Spring Data JPA
+- **Spring Data JPA**
 
-- MySQL (AWS RDS)
+- **MySQL** (AWS RDS)
 
-- Docker
+- **Docker**
 
-- JSP & JSTL (for frontend templates)
+- **JSP & JSTL** (for frontend templates)
 
-- HTML & CSS (for UI styling)
+- **HTML & CSS** (for UI styling)
 
-- JSP Fragments (for reusable header and footer)
+- **JSP Fragments** (for reusable header and footer)
